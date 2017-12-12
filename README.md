@@ -1,3 +1,5 @@
 # Icy
 
-Icy is a palette of 16 colors for the [base16 builder](https://github.com/chriskempson/base16).
+<img align="center" src="./palette.png">
+
+Icy is a 16-bit colorscheme for nice people. 
